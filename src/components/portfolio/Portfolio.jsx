@@ -1,30 +1,15 @@
 import './Portfolio.css';
-import img1 from '../../assets/item1.jpg';
-import img2 from '../../assets/item2.jpg';
-import img3 from '../../assets/item3.jpg';
+import gymTypeScript from '../../assets/gym-typescript.png';
 
 const data = [
   {
     id: 1,
-    image: img1,
-    title: 'Title 1',
-    github: "http://github.com",
-    demo: "http://github.com"
+    image: gymTypeScript,
+    title: 'Gym-TypeScript',
+    github: "https://github.com/vanphung3792/portfolio-main",
+    demo: "https://vanphung3792.github.io/portfolio-main/"
   },
-  {
-    id: 2,
-    image: img2,
-    title: 'Title 2',
-    github: "http://github.com",
-    demo: "http://github.com"
-  },
-  {
-    id: 3,
-    image: img3,
-    title: 'Title 3',
-    github: "http://github.com",
-    demo: "http://github.com"
-  },
+ 
 ]
 
 const Portfolio = () => {
