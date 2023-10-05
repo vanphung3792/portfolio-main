@@ -6,8 +6,8 @@ const data = [
     id: 1,
     image: gymTypeScript,
     title: 'Gym-TypeScript',
-    github: "https://github.com/vanphung3792/portfolio-main",
-    demo: "https://vanphung3792.github.io/portfolio-main/"
+    github: "https://github.com/vanphung3792/gym-typescript",
+    demo: "https://vanphung3792.github.io/gym-typescript/"
   },
  
 ]

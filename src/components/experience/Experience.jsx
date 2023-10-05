@@ -1,7 +1,7 @@
 import './Experience.css';
 import {BsPatchCheckFill} from 'react-icons/bs';
 
-const frontEndExp = ["HTML", "CSS", "Javascipt", "Bootstrap", "ReactJS", "Tailwind", "TypeScript", "Vite"];
+const frontEndExp = ["HTML", "CSS", "Javascipt", "Bootstrap", "ReactJS", "Tailwind", "TypeScript", "Vite", "Git"];
 const backEndExp = ["PHP", "MySQL", "Laravel"];
 
 const Experience = () => {
