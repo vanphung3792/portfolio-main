@@ -1,4 +1,4 @@
-import Resume from '../../assets/resume.pdf';
+import Resume from '../../assets/VANPHUNG-Resume.docx';
 
 const CTA = () => {
   return (
