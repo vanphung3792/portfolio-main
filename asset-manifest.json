@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio-main/static/css/main.5b2cdfca.css",
-    "main.js": "/portfolio-main/static/js/main.37eee35c.js",
+    "main.js": "/portfolio-main/static/js/main.7b5d4cd6.js",
     "static/media/gym-typescript.png": "/portfolio-main/static/media/gym-typescript.50be7727a15e92aa5727.png",
-    "static/media/resume.pdf": "/portfolio-main/static/media/resume.10ab62eb073a41187d31.pdf",
+    "static/media/VANPHUNG-Resume.docx": "/portfolio-main/static/media/VANPHUNG-Resume.ee01d084bb56bd3cd488.docx",
     "index.html": "/portfolio-main/index.html",
     "main.5b2cdfca.css.map": "/portfolio-main/static/css/main.5b2cdfca.css.map",
-    "main.37eee35c.js.map": "/portfolio-main/static/js/main.37eee35c.js.map"
+    "main.7b5d4cd6.js.map": "/portfolio-main/static/js/main.7b5d4cd6.js.map"
   },
   "entrypoints": [
     "static/css/main.5b2cdfca.css",
-    "static/js/main.37eee35c.js"
+    "static/js/main.7b5d4cd6.js"
   ]
 }
